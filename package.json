@@ -1,6 +1,6 @@
 {
-  "name": "aditya_njr",
-  "version": "1.0.0",
+  "name": "adityanjr",
+  "version": "1.0.1",
   "description": "Personal npm card for Aditya Singh (@adityanjr)",
   "main": "dist/card.js",
   "unpkg": "index.html",
@@ -53,7 +53,7 @@
       "github": "adityanjr",
       "linkedin": "adityanjr",
       "web": "** Coming Soon **",
-      "work": "Developer/Competitive Programmer"
+      "work": "Software Developer"
     },
     "data": [
       "          <white>{{name}}</><green> / </><cyan>{{handle}}</>",
