@@ -10,7 +10,7 @@
   },
   "scripts": {
     "prepare": "node src/htmlify",
-    "prepublishOnly": "rm -rf dist && webpack"
+    "prepublishOnly": "rd /s /q dist && webpack"
   },
   "bin": {
     "adityanjr": "bin/index.js"
