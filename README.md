@@ -1,4 +1,4 @@
-[npm] card for Aditya Singh
+[npm](https://www.npmjs.com/package/adityanjr?__cf_chl_captcha_tk__=389a9186fb64260fc638c07dee76cf19aae2e319-1619713892-0-AbBOVFYPVmVAuXH8b7ZCsU-DTjsneXfwNhC7J7iAMtzepVO5xJlOMjDm-LB4GMLFyL7GkFdCI3k41PEKDQD0X7LDbpCOXVxn0_5roKyIOMJkpM4ts3u_DXqPvl8DTsgePvRYYSZXydNRDiTPJdRH0ls3cXUPdx7E0wq2eG8YQZ3nBATJANQViDfWDrmkNleBGui1thhGBFf3oCPkRDwVobzewWgZDnnllFnEAn-R88WxPunz5Ws_Lx82xNPvGvYloHJa3FlRCG_OmUuhpgjUxw8aOHZNFI9TewLzd47u8XUBNZKb4gl0Hkzn_x9_1conRVg284zrBWGkTVZxxNKfIQtpZ6oNwGumSX-3fp5AqqUvcm_9cgYl9kbU9AL7_51UwMI3xarQhYUZaF6HJqQOiHTabY5Aq0lsT2GLR7GPR_SLE98pv3_T-DVNbuuTgnb-FSyD4mrEEK1AR1-7vcmMj1hB1GGX1IQ9HNEIVf7WFgAXerO5sQerXkbAXtfZrQjR7bR5bTtqWYH1Nh65wjb2QeZrnzl3d2hwzY4S6IShH3VCKzwDx8LksqdND5u3g9-te93xlSttrgJF35xMa65CUXr_1bwsbJgK2D_FcPYK4Z9J2pB_xkMetG7DJsuBxPW9Uot0HH3at4VDr7ltRHBMIKzZBSae5LY4ddExtPOxSRmx) card for Aditya Singh
 
 # Usage
 
@@ -8,15 +8,16 @@ Via npx:
 npx adityanjr
 ```
 
-# Other
-
-Idea and trend started by [Tierney (@bitandbang)]
+# Commands
 
 To create your own, use [create-my-card].
 
-ie: `npm init my-card`
-
-[npm]: https://www.npmjs.com/
-[tierney (@bitandbang)]: https://www.npmjs.com/package/bitandbang
-[create-my-card]: https://www.npmjs.com/package/create-my-card
-
+```
+npm init my-card
+```
+```
+npm major version
+```
+```
+npm publish
+```
